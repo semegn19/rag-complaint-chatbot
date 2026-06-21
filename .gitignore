@@ -16,6 +16,7 @@ data/
 
 #dataases
 *.db
+/vector_store
 
 #models
 /models
